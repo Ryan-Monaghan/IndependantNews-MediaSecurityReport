@@ -1,0 +1,172 @@
+Microsoft Windows [Version 6.1.7601]
+Copyright (c) 2009 Microsoft Corporation.  All rights reserved.
+
+C:\Users\r00127358>nslookup thestar.ie
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    thestar.ie
+Address:  213.219.36.111
+
+
+C:\Users\r00127358>nslookup www.independant.co.uk
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    www.independant.co.uk
+Address:  72.52.4.121
+
+
+C:\Users\r00127358>nslookup 192.234.240.251
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+DNS request timed out.
+    timeout was 2 seconds.
+*** Request to sdc-btc-v01.student-cit.local timed-out
+
+C:\Users\r00127358>nslookup 195.234.240.251
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Name:    ns6.associated.co.uk
+Address:  195.234.240.251
+
+
+C:\Users\r00127358>nslookup Findajob.ie
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    Findajob.ie
+Address:  80.93.18.9
+
+
+C:\Users\r00127358>nslookup www.herald.ie
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    d119k43ae6wes6.cloudfront.net
+Addresses:  54.239.164.180
+          54.239.164.205
+          54.239.164.68
+          54.239.164.202
+          54.239.164.220
+          54.239.164.47
+          54.239.164.194
+          54.239.164.91
+Aliases:  www.herald.ie
+
+
+C:\Users\r00127358>nslookup www.sundayworld.com
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    www.sundayworld.com
+Addresses:  198.41.187.49
+          198.41.186.49
+
+
+C:\Users\r00127358>nslookup www.independent.ie
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    d27oenoxce69eq.cloudfront.net
+Addresses:  54.230.196.118
+          54.230.196.50
+          54.230.196.117
+          54.192.197.84
+          54.230.196.15
+          54.230.196.16
+          54.230.196.99
+          54.230.196.70
+Aliases:  www.independent.ie
+
+
+C:\Users\r00127358>nslookup www.inm.ie
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    d2jyzibq6s88o0.cloudfront.net
+Addresses:  54.239.164.31
+          54.239.164.98
+          54.239.164.43
+          54.239.164.67
+          54.239.164.193
+          54.239.164.86
+          54.239.164.92
+          54.239.164.56
+Aliases:  www.inm.ie
+
+
+C:\Users\r00127358>nslookup www.inmplc.com
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    d181p16dtzqtxb.cloudfront.net
+Addresses:  54.230.196.36
+          54.230.196.29
+          54.230.196.92
+          54.230.196.69
+          54.230.196.133
+          54.230.196.55
+          54.230.198.251
+          54.230.196.11
+Aliases:  www.inmplc.com
+
+
+C:\Users\r00127358>nslookup www.independent.co.uk
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    fallback.global-ssl.fastly.net
+Addresses:  185.31.18.249
+          185.31.19.249
+Aliases:  www.independent.co.uk
+          global.prod.fastly.net
+          global-ssl.fastly.net
+
+
+C:\Users\r00127358>nslookup www.belfasttelegraph.co.uk
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    www.belfasttelegraph.co.uk
+Address:  77.245.91.249
+
+
+C:\Users\r00127358>nslookup www.apn.co.au
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+*** sdc-btc-v01.student-cit.local can't find www.apn.co.au: Non-existent domain
+
+C:\Users\r00127358>nslookup www.apn.com.au
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    www.apn.com.au
+Address:  202.8.64.54
+
+
+C:\Users\r00127358>nslookup www.nzherald.co.nz
+Server:  sdc-btc-v01.student-cit.local
+Address:  157.190.20.4
+
+Non-authoritative answer:
+Name:    w1.apnnz.com
+Address:  188.138.61.41
+Aliases:  www.nzherald.co.nz
+
+
+C:\Users\r00127358>
